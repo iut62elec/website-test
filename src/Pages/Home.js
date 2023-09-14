@@ -17,16 +17,16 @@ const Home = () => {
                           className="cd-words-wrapper"
                           style={{ width: "266px", overflow: "hidden" }}
                         >
-                          <b className="is-hidden">Sanajit Jana</b>
-                          <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Developer</b>
+                          <b className="is-hidden">Chemilum</b>
+                          <b className="is-hidden">Chemilum</b>
+                          <b className="is-visible">Chemilum</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".4s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01"
+                              href="https://www.linkedin.com/in/chemilumjana01"
                               target="newtab"
                             >
                               <i
@@ -37,7 +37,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana"
+                              href="https://github.com/chemilumjana"
                               target="newtab"
                             >
                               <i
@@ -48,7 +48,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".6s">
                             <a
-                              href="https://www.instagram.com/sanajitjana01/"
+                              href="https://www.instagram.com/chemilumjana01/"
                               target="newtab"
                             >
                               <i
@@ -59,7 +59,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".8s">
                             <a
-                              href="https://twitter.com/sanajitjana01"
+                              href="https://twitter.com/chemilumjana01"
                               target="newtab"
                             >
                               <i
@@ -70,7 +70,7 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay="1s">
                             <a
-                              href="https://dev.to/sanajitjana"
+                              href="https://dev.to/chemilumjana"
                               target="newtab"
                             >
                               <i className="fa fa-book" aria-hidden="true"></i>
@@ -97,19 +97,12 @@ const Home = () => {
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>What I do</h3>
+                      <h3>What we do</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                      Dedicated to Innovative Performance Ingredients to Disrupt Cosmetics & Personal Care Industry
+
                       </p>
                     </div>
                   </div>
@@ -172,7 +165,7 @@ const Home = () => {
                     <div className="about-image">
                       <img
                         src="assets/img/about-image.jpg"
-                        alt="sanajit-jana"
+                        alt="chemilum-jana"
                         className="about-img wow fadeIn"
                       />
                     </div>
@@ -180,7 +173,7 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Hello! This is chemilum</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
@@ -209,13 +202,13 @@ const Home = () => {
                       </p>
                       <a
                         className="about-link-1"
-                        href="assets/cv/sanajit-jana-profile.pdf"
+                        href="assets/cv/chemilum-jana-profile.pdf"
                         target="_blank"
                       >
                         See Resume
                       </a>
                       <a className="about-link-2" href="#contact">
-                        Hire Me
+                        Hire US
                       </a>
                     </div>
                   </div>
@@ -880,7 +873,7 @@ const Home = () => {
                                 <div className="active item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit was a real pleasure to work with
+                                      “chemilum was a real pleasure to work with
                                       and we look forward to working with him
                                       again. He’s definitely the kind of
                                       developer you can trust with a project
@@ -893,7 +886,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit's a clear communicator with the
+                                      “chemilum's a clear communicator with the
                                       tenacity and confidence to really dig in
                                       to tricky design scenarios and the
                                       collaborative friction that's needed to
@@ -906,7 +899,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit has done a fantastic job overall.
+                                      “chemilum has done a fantastic job overall.
                                       Not only the site is to design, but the
                                       code is also very clean and slick. Love
                                       the way he achieved the translations
@@ -955,7 +948,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          href="https://dev.to/chemilumjana/what-is-hooks-in-react-js-41l2"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -967,7 +960,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/chemilumjana/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -990,7 +983,7 @@ const Home = () => {
                             and hooks is ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/chemilumjana/what-is-hooks-in-react-js-41l2"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1003,7 +996,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          href="https://dev.to/chemilumjana/the-importance-of-ui-ux-software-engineering-1n0n"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1015,7 +1008,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/chemilumjana/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1038,7 +1031,7 @@ const Home = () => {
                             keyboard and the appearance ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/chemilumjana/the-importance-of-ui-ux-software-engineering-1n0n"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1051,7 +1044,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                          href="https://dev.to/chemilumjana/form-example-in-laravel-8-45oc"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1063,7 +1056,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/chemilumjana/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1085,7 +1078,7 @@ const Home = () => {
                             create contact-list ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/chemilumjana/form-example-in-laravel-8-45oc"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1097,7 +1090,7 @@ const Home = () => {
                     </div>
                     <div className="row" style={{ textAlign: "center" }}>
                       <a
-                        href="https://dev.to/sanajitjana"
+                        href="https://dev.to/chemilumjana"
                         target="newtab"
                         className="btn btn-warning"
                         style={{
@@ -1263,7 +1256,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>USA NY</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1267,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:contact.chemilumj@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          contact.chemilumjana@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1293,14 +1286,14 @@ const Home = () => {
                         ></i>
                         <h3>Phone</h3>
                         <a
-                          href="tel:8372876775"
+                          href="tel:83728765"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +1 83776775
                         </a>
                       </div>
                     </div>
@@ -1311,12 +1304,12 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
+                        <p>https://chemilumjana.github.io/</p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="container-fluid map-col">
+                {/* <div class="container-fluid map-col">
                   <div class="col-md-12 col-sm-12 map-col">
                     <div class="google-maps">
                       <div class="map-wrap">
@@ -1333,7 +1326,7 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
